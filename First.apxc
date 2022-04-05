@@ -1,1 +1,5 @@
+public class New{
+
 System.debug("Hello");
+
+}
