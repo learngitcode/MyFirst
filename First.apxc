@@ -2,4 +2,7 @@ public class New{
 
 System.debug("Hello");
 
+System.debug("World");
+
+System.debug("Shree");
 }
